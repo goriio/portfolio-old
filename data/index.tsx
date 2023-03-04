@@ -56,6 +56,15 @@ export const techStack = [
 
 export const projects = [
   {
+    title: 'studio-ghibli',
+    description: '🌳 Client for Studio Ghibli API',
+    thumbnail: '/images/ghibli-thumbnail.png',
+    link: {
+      code: 'https://github.com/goriio/studio-ghibli',
+      demo: 'https://ghibli-film.vercel.app',
+    },
+  },
+  {
     title: 'unsentpup',
     description: '💬 Unsent messages of PUPians ',
     thumbnail: '/images/unsentpup-thumbnail.png',
@@ -71,15 +80,6 @@ export const projects = [
     link: {
       code: 'https://github.com/goriio/mumu',
       demo: 'https://mumu.vercel.app',
-    },
-  },
-  {
-    title: 'malaya',
-    description: '📄 Post whatever you want. :D',
-    thumbnail: '/images/malaya-thumbnail.png',
-    link: {
-      code: 'https://github.com/goriio/malaya',
-      demo: 'https://malaya.vercel.app',
     },
   },
   {

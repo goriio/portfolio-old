@@ -11,7 +11,7 @@ export function Projects() {
         {projects.map(({ title, description, thumbnail, link }) => {
           return (
             <div key={title}>
-              <div className="relative h-48 sm:h-56 mb-2 bg-slate-200 rounded overflow-hidden shadow">
+              <div className="relative mb-2 bg-slate-200 rounded overflow-hidden shadow aspect-video">
                 <Image
                   src={thumbnail}
                   blurDataURL={thumbnail}
