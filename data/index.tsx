@@ -14,7 +14,7 @@ export const my = {
   description:
     'A passionate web developer. I am fond of building interactive web applications and learning new interesting things.',
   email: 'gdsuaperoii@duck.com',
-  resume: 'https://github.com/goriio',
+  resume: '/resume.pdf',
   github: 'https://github.com/goriio',
   linkedIn: 'https://www.linkedin.com/in/gregoriosuaperoii',
 };

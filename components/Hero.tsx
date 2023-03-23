@@ -18,7 +18,7 @@ export function Hero() {
           <Link to="contact" smooth duration={400}>
             <Button variant="outline">Get in touch</Button>
           </Link>
-          <a href={my.resume} target="_blank" rel="noreferrer">
+          <a href={my.resume} target="_blank" rel="noreferrer" download>
             <Button icon={<BiDownload />}>Resume</Button>
           </a>
         </div>
