@@ -8,7 +8,7 @@ export function Hero() {
     <section id="home" className="flex items-center w-full h-[60vh]">
       <div>
         <p className="text-lg">
-          <span className="italic">Kamusta,</span> I am
+          <span className="italic">Kumusta,</span> I am
         </p>
         <h1 className="mb-4 text-2xl sm:text-5xl text-gray-800 font-bold">
           {my.name}
